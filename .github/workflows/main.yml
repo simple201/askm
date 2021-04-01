@@ -70,11 +70,11 @@ jobs:
 
         with:
 
-          src: github/LXK9301
+          src: github/simple201
 
-          dst: gitee/lxk0301
+          dst: gitee/simple201
 
-          static_list: "jd_scripts"
+          static_list: "askm"
 
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
 
